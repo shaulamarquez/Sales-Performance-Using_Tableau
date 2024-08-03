@@ -1,6 +1,6 @@
 # Tableau User Story | Sales Performance
 
-![Dashboard 1](https://public.tableau.com/app/profile/shaula.marquez/viz/Sales_17226092904280/SalesDashboard)
+https://public.tableau.com/app/profile/shaula.marquez/viz/Sales_17226092904280/SalesDashboard
 
 ![image](https://github.com/user-attachments/assets/a6bf1454-9eb4-4ab1-b2f3-574ee1f45ed7)
 
