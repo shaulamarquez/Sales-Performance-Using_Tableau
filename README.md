@@ -2,6 +2,8 @@
 
 ![Dashboard 1](https://public.tableau.com/app/profile/shaula.marquez/viz/Sales_17226092904280/SalesDashboard)
 
+![image](https://github.com/user-attachments/assets/a6bf1454-9eb4-4ab1-b2f3-574ee1f45ed7)
+
 ## Intorduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
